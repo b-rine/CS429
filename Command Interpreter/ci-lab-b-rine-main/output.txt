@@ -1,0 +1,2 @@
+	ans = "Hello, World!"
+	ans = 40
